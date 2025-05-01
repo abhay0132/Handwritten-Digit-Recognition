@@ -14,7 +14,7 @@ This project implements a robust Convolutional Neural Network (CNN) to recognize
 🧠 Saved trained model as .h5 and ready for prediction via image upload
 </br>
 </br>
-📦 Tech Stack:
+📦 Tech Stack:</br>
 Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib
 </br>
 CNN architecture with ReLU, Softmax, Adam optimizer
