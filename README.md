@@ -2,7 +2,7 @@
 
 A CNN-based digit recognizer trained on MNIST, served via a FastAPI backend and containerized with Docker. Includes an interactive frontend where you draw a digit and get a real-time prediction.
 
-![Demo](frontend/demo.png)
+![Demo](frontend/result.png)
 
 ## Features
 
